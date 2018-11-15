@@ -1,12 +1,9 @@
 ﻿<Properties StartupConfiguration="{26EFA988-4E6F-74B0-D774-F98459B2AC65}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Completed-Assets/Scripts/CompleteRotator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pickup_C.cs">
     <Files>
-      <File FileName="Assets/TutorialInfo/Scripts/TutorialInfo.cs" Line="1" Column="1" />
-      <File FileName="Assets/TutorialInfo/Scripts/Editor/TutorialInfoEditor.cs" Line="1" Column="1" />
-      <File FileName="Assets/TutorialInfo/Scripts/PlayerController.cs" Line="1" Column="1" />
-      <File FileName="Assets/TutorialInfo/Scripts/Pickup_C.cs" Line="12" Column="64" />
-      <File FileName="Assets/_Completed-Assets/Scripts/CompleteRotator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Pickup_C.cs" Line="7" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
